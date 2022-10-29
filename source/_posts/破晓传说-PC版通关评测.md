@@ -7,6 +7,7 @@ tags:
   - 传说系列
 abbrlink: 14878
 date: 2021-09-23 00:00:00
+banner_img: /images/破晓传说/70e2b286ly1gpyekbxr9lj20xc0hi7ir.jpg
 ---
 
 1、普通难度，一周目通关，支线未全清，隐藏迷宫已打
