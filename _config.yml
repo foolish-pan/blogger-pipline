@@ -120,4 +120,4 @@ deploy:
   repo: 
     github: 'git@github.com:foolish-pan/foolish-pan.github.io.git'
     gitee: 'git@gitee.com:foolish0012/foolish-pan.github.io.git'
-  branch: 'main'
+  branch: 'master'
