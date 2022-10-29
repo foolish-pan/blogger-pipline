@@ -117,8 +117,7 @@ theme: kaze
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
 - type: git
-  repo: 'git@github.com:foolish-pan/foolish-pan.github.io.git'
-  branch: 'main'
-- type: git
-  repo: 'git@gitee.com:foolish0012/foolish-pan.github.io.git'
+  repo: 
+    github: 'git@github.com:foolish-pan/foolish-pan.github.io.git'
+    gitee: 'git@gitee.com:foolish0012/foolish-pan.github.io.git'
   branch: 'main'
